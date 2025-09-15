@@ -1,2 +1,23 @@
-# bank-account-simulator
-A simple Python console program that uses Object-Oriented Programming principles to simulate a bank account system. Users can check balances, deposit money, and withdraw money from checking or savings accounts with input validation and basic error handling.
+# Bank Account Simulator (Python Console)
+
+Simple Python console program that uses Object-Oriented Programming (OOP) to simulate a basic banking system with checking and savings accounts.
+
+---
+
+## Why this project
+Demonstrates Python fundamentals and OOP concepts:
+
+- Classes and objects (`Account` class)
+- Loops and conditionals
+- User input validation
+- Deposit and withdrawal logic
+- Balance tracking with overdraft protection
+
+---
+
+## How to run
+1. Clone this repo or download the file.  
+2. Open a terminal or command prompt in the repo folder.  
+3. Run the program:  
+   ```bash
+   python bank_account.py
